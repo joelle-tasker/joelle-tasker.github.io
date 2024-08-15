@@ -8,6 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-
 [Download my cv here](/files/cv.pdf)
-
