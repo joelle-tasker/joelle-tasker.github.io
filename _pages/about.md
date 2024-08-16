@@ -14,7 +14,7 @@ redirect_from:
 
 
 
- In addition to my studies, I work as a Survey Data Linkage Officer for Understanding Society, one of the largest longitudinal studies in the world, at [the Institute for Social and Economic Research](https://www.iser.essex.ac.uk/people/kg20588). At the institute, I also lead [Geography data linkage workshop](https://www.understandingsociety.ac.uk/help/training/geographical-data-linkage/), and contribute to other projects such as [Material Deprivation Dashboard](https://www.understandingsociety.ac.uk/news/2023/10/16/new-material-deprivation-dashboard/)
+ In addition to my studies, I work as a Survey Data Linkage Officer for [Understanding Society](https://www.understandingsociety.ac.uk/), one of the largest longitudinal studies in the world, at [the Institute for Social and Economic Research](https://www.iser.essex.ac.uk/people/kg20588). At the institute, I also lead [Geography data linkage workshop](https://www.understandingsociety.ac.uk/help/training/geographical-data-linkage/), and contribute to other projects such as [Material Deprivation Dashboard](https://www.understandingsociety.ac.uk/news/2023/10/16/new-material-deprivation-dashboard/)
 
  Please feel free to reach out if you would like to connect or learn more about my research.
 
