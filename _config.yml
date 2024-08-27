@@ -21,11 +21,10 @@ repository               : "garickristijan/garickristijan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Kristijan Garic"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Government Department, University of Essex. 
-                      Survey Data Linkage Officer for Understanding Society."
+  bio              : "PhD student/Survey Data Linkage Officer."
   location         : "Colchester"
   employer         : "University of Essex/ISER"
   uri              : "https://www.essex.ac.uk/people/GARIC44303/Kristijan-Garic"
@@ -114,7 +113,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : google11bb4eedfe3af4cb
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
