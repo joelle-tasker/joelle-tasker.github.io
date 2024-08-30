@@ -11,12 +11,12 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <h2>Pages</h2>
 <ul>
-  <li><a href="https://kristijangaric.com/">Home</a> (Last Modified: 2024-08-30, Priority: 1.00)</li>
-  <li><a href="https://kristijangaric.com/publications/">Publications</a> (Last Modified: 2024-08-30, Priority: 0.80)</li>
-  <li><a href="https://kristijangaric.com/cv/">CV</a> (Last Modified: 2024-08-30, Priority: 0.80)</li>
-  <li><a href="https://kristijangaric.com/sitemap/">Sitemap</a> (Last Modified: 2024-08-30, Priority: 0.80)</li>
-  <li><a href="https://kristijangaric.com/files/cv.pdf">CV PDF</a> (Last Modified: 2024-08-30, Priority: 0.64)</li>
-  <li><a href="https://kristijangaric.com/404.html">404 Page</a> (Last Modified: 2024-08-30, Priority: 0.64)</li>
+  <li><a href="https://kristijangaric.com/">Home</a> </li>
+  <li><a href="https://kristijangaric.com/publications/">Publications</a> </li>
+  <li><a href="https://kristijangaric.com/cv/">CV</a> </li>
+  <li><a href="https://kristijangaric.com/sitemap/">Sitemap</a> </li>
+  <li><a href="https://kristijangaric.com/files/cv.pdf">CV PDF</a> </li>
+  <li><a href="https://kristijangaric.com/404.html">404 Page</a> </li>
 </ul>
 
 
