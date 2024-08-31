@@ -15,6 +15,7 @@ A list of all the posts and pages found on the site. For you robots out there is
   <li><a href="https://kristijangaric.com/publications/">Research</a> </li>
   <li><a href="https://kristijangaric.com/cv/">CV</a> </li>
   <li><a href="https://kristijangaric.com/files/cv.pdf">CV PDF</a> </li>
+  <li><a href="https://kristijangaric.com/terms/">Terms and Privacy Policy</a> </li>
   <li><a href="https://kristijangaric.com/sitemap/">Sitemap</a> </li>
 </ul>
 
