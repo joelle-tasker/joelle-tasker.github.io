@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student/Survey Data Linkage Officer."
   location         : "Colchester"
-  employer         : "University of Essex/ISER"
-  uri              : "https://www.essex.ac.uk/people/GARIC44303/Kristijan-Garic"
+  employer         : "<a href='https://www.essex.ac.uk'>University of Essex/ISER</a>"
+  #uri              : "https://www.essex.ac.uk/people/GARIC44303/Kristijan-Garic"
   email            : "k.garic@essex.ac.uk" 
 
   # Academic websites

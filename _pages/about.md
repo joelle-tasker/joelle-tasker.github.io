@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kristijan Garic, and I am a PhD student in the [Department of Government](https://www.essex.ac.uk/departments/government), University of Essex. 
+My name is Kristijan Garic, and I am a PhD student in the [Department of Government](https://www.essex.ac.uk/departments/government), [University of Essex](https://www.essex.ac.uk). 
 In my PhD project, I am focusing on developing new theories and models to identify and measure policy learning by analysing public debates in several countries. 
 
 The premise of my research is that policy learning can be measured by capturing changes in policy preferences over time, analysing policy actors (governmental and non-governmental organisations) in policy debates, and subsequently, policy subsystems. 
