@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Terms and Privacy Policy"
-    url: /terms/
+  #- title: "Terms and Privacy Policy"
+   # url: /terms/
