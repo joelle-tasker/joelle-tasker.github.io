@@ -21,7 +21,7 @@ repository               : "garickristijan/garickristijan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Kristijan Garic"
   pronouns         : # example: "she/her"  
   bio              : "PhD student/Survey Data Linkage Officer."
