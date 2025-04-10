@@ -1,9 +1,20 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 ## Working papers
 
-Vandenhole, K., Garic, K., and Leifeld, P. (2023). **Detection of Phase Transitions in Discourse Networks of Sustainability Transitions**. [SocArXiv: 7f5x6](https://doi.org/10.31235/osf.io/7f5x6).
+Joelle Tasker, "The Changing Meaning of the Left-Right Space in the UK"
+
+Petra Schleiter, Jonathan Homola, Jeremy Siow, Joelle Tasker, Margit Tavits, "Mandatory Voter ID Reduces Turnout: Evidence from the Voter ID Reform in the UK"
+
+##Work in progress
+
+Joelle Tasker, "Brexit as a Cause or Consequence of Realignment"
+
+Joelle Tasker, "Can Ideological Cues Shift Left-Right Self-Placement?"
+
+Royce Carroll & Joelle Tasker, "Translating ideology into left-right self-placement in Europe"
+
