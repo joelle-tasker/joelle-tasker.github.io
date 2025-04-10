@@ -27,7 +27,7 @@ author:
   location         : "Colchester"
   employer         : "University of Essex"
   uri              : "https://www.essex.ac.uk/people/TASKE47801/Joelle-Tasker"
-  email            : "jt21206@essex.ac.uk" 
+  email            : "joelle.tasker@essex.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app/profile/joelletasker.bsky.social"
+  bluesky           : "joelletasker.bsky.social"
   #facebook         : # Username
   #flickr           : # Username
   #foursquare       : # Username
